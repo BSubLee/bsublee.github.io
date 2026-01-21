@@ -60,7 +60,7 @@ Extracurrirular activities
 ------
 * GIST Infinite Challenge Project
   * Gwangju Institute of Science and Technology
-  * May 2022 - Oct. 2022
+  * May. 2022 - Oct. 2022
   * Duties included: Designing and making an artworks
 * GIST Summer Undergraduate Research Fellowship(G-SURF)
   * Gwangju Institute of Science and Technology
