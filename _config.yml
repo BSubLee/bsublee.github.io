@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Byeongsub Lee"
   avatar           : "profile.png"
-  bio              : "Undergraduate student at GIST"
-  location         : "Gwangju, Korea, Republic of"
+  bio              : "Ph.D. student in KAIST"
+  location         : "Daejeon, Korea, Republic of"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "byeongsublee@kaist.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0009-0004-6837-4719"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
