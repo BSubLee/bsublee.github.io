@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am graduate student at Graduate School of Engineering Biology in Korea Advanced Institute of Scicence and Technology (KAIST). I am interested in drug discovery since I want more people to live healthier. I am working on metabolic engineering for drug discovery using machine learning techniques. I am working on System Biology and Medical Lab (SBML) with advisor Hyun Uk Kim.
+I am a graduate student in the Graduate School of Engineering Biology at the Korea Advanced Institute of Science and Technology (KAIST).  
+My research interests lie in synthetic biology, systems biology, and metabolic engineering for drug discovery, with a focus on data-driven and machine learning–based approaches.  
+I am currently conducting graduate research at the Systems Biology and Medicine Laboratory (SBML), advised by Prof. Hyun Uk Kim.
 
 
 Contact Me
