@@ -6,7 +6,7 @@ collection: portfolio
 
 ### Summary
 
-Natural products are an important source of bioactive molecules, yet understanding their biosynthetic pathways remains challenging due to complex genotype–phenotype relationships. This review highlights recent advances in **artificial intelligence (AI)** and **mechanistic modeling** that are transforming the study of natural product biosynthesis. We discuss computational resources and databases that support these approaches, AI-driven methods for predicting biosynthetic pathways and enzyme–substrate interactions, and mechanistic simulations that provide structural and energetic insights into enzymatic reactions. The review also outlines future opportunities for integrating data-driven and mechanistic strategies to accelerate natural product discovery, engineering, and application in drug discovery, biotechnology, and synthetic biology.
+Natural products are an important source of bioactive molecules, yet understanding their biosynthetic pathways remains challenging due to complex genotype–phenotype relationships. This review highlights how recent advances in artificial intelligence (AI) and mechanistic modeling are transforming the study of natural product biosynthesis. We discuss computational resources, AI-based pathway prediction, and mechanistic simulations that provide structural and energetic insights into enzymatic reactions. The review also outlines future opportunities for integrating data-driven and mechanistic strategies to accelerate natural product discovery and engineering.
 
 ### My Contribution
 
@@ -18,4 +18,4 @@ Natural products are an important source of bioactive molecules, yet understandi
 *Natural Products Reports*, 2026  
 Review Article
 
-[Link to paper](https://pubs.rsc.org/en/content/articlelanding/2026/np/d5np00059a)
+DOI: [10.1039/D5NP00059A](https://doi.org/10.1039/D5NP00059A)
