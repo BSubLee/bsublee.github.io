@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ------
-* Ph.D in Korea Advanced Institute of Science and Technology(KAIST), Mar. 2026 - present
+* Ph.D. in Korea Advanced Institute of Science and Technology (KAIST), Mar. 2026 – Present
   * Major: Graduate School of Engineering Biology
   * Lab: Systems Biology and Medicine Laboratory (SBML)
   * Advisor: Prof. Hyun Uk Kim
-* M.S. in Korea Advanced Institute of Science and Technology(KAIST), Feb. 2024 - Feb. 2026
+* M.S. in Korea Advanced Institute of Science and Technology (KAIST), Feb. 2024 – Feb. 2026
   * Major: Graduate School of Engineering Biology
   * Lab: Systems Biology and Medicine Laboratory (SBML)
   * Advisor: Prof. Hyun Uk Kim
-* B.S. in Gwangju Institute of Science and Technology(GIST), Mar. 2020 - Feb. 2024
-  * Major: School of Life Sciences(Mar.2021 - Feb.2024)
+* B.S. in Gwangju Institute of Science and Technology (GIST), Mar. 2020 – Feb. 2024
+  * Major: School of Life Sciences (Mar. 2021 – Feb. 2024)
  
 Publications
 ------
@@ -29,10 +29,10 @@ Publications
 
 Research Experience
 ------
-* Feb. 2024 – present: Graduate Researcher  
-  * Systems Biology and Medicine Laboratory (SBML), KAIST  
+* Feb. 2024 – Present: Graduate Researcher
+  * Systems Biology and Medicine Laboratory (SBML), KAIST
   * Advisor: Prof. Hyun Uk Kim
-  * Graduate research in systems biology and metabolic engineering
+  * Conducting research in systems biology and metabolic engineering
   * Computational and AI-based analysis of natural product biosynthesis
   * Systems-level approaches to microbial strain optimization
 
@@ -64,31 +64,31 @@ Teaching experience
 Skills
 ------
 * Programming
-  * Python: machine learning–based modeling and data analysis
+  * Python: Machine learning–based modeling and data analysis
   * C: Korea Olympiad in Informatics (2016)
-  * R: Basic knowledge
+  * R: Basic proficiency
 * Language
   * Native: Korean
   * English: TOEIC 910/990(Aug. 2022)
  
-Scholarships & Fundings
+Scholarships & Awards
 ------
-* GIST Goverment Scholarship
-  * 2020-2023 Spring/Fall semester
+* GIST Government Scholarship
+  * 2020–2023 (Spring/Fall)
 * Academic Excellence Scholarship
-  * 2020-2021 Spring/Fall semester
+  * 2020–2021 (Spring/Fall)
 * National Science & Technology Scholarship
-  * 2022-2023 Spring/Fall semester
+  * 2022–2023 (Spring/Fall)
 * KAIST Scholarship
-  * 2024-present Spring/Fall semester
+  * 2024–Present
 
-Extracurrirular activities
+Extracurricular Activities
 ------
 * GIST Infinite Challenge Project
   * Gwangju Institute of Science and Technology
-  * May. 2022 - Oct. 2022
-  * Duties included: Designing and making an artworks
-* GIST Summer Undergraduate Research Fellowship(G-SURF)
+  * May 2022 – Oct. 2022
+  * Designed and produced an artwork as part of a collaborative creative project
+* GIST Summer Undergraduate Research Fellowship (G-SURF)
   * Gwangju Institute of Science and Technology
   * Summer 2022
-  * Duties included: Laboratory experience(More details on 'Reasearch Experiences')
+  * Participated in laboratory research training (see Research Experience)
