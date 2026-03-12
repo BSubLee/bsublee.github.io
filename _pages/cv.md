@@ -64,8 +64,8 @@ Teaching experience
 Skills
 ------
 * Programming
-  * C: Participated in the 2016 Korea Olympiad in Informatics
   * Python: machine learning–based modeling and data analysis
+  * C: Korea Olympiad in Informatics (2016)
   * R: Basic knowledge
 * Language
   * Native: Korean
