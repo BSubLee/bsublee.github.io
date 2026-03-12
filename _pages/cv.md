@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ------
-* B.S. in Gwangju Institute of Science and Technology(GIST), Mar.2020 - Feb.2024
+* Ph.D in Korea Advanced Institute of Science and Technology(KAIST), Mar. 2026 - present
+  * Major: Graduate School of Engineering Biology
+  * Lab: Systems Biology and Medicine Laboratory (SBML)
+  * Advisor: Prof. Hyun Uk Kim
+* M.S. in Korea Advanced Institute of Science and Technology(KAIST), Feb. 2024 - Feb. 2026
+  * Major: Graduate School of Engineering Biology
+  * Lab: Systems Biology and Medicine Laboratory (SBML)
+  * Advisor: Prof. Hyun Uk Kim
+* B.S. in Gwangju Institute of Science and Technology(GIST), Mar. 2020 - Feb. 2024
   * Major: School of Life Sciences(Mar.2021 - Feb.2024)
-* M.S. in Korea Advanced Institute of Science and Technology(KAIST), Feb.2024 - Feb.2026
-  * Major: Graduate School of Engineering Biology
-  * Lab: Systems Biology and Medicine Laboratory (SBML)
-  * Advisor: Prof. Hyun Uk Kim
-* Ph.D in Korea Advanced Institute of Science and Technology(KAIST), Mar.2026 - present
-  * Major: Graduate School of Engineering Biology
-  * Lab: Systems Biology and Medicine Laboratory (SBML)
-  * Advisor: Prof. Hyun Uk Kim
  
 Publications
 ------
