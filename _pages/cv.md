@@ -24,7 +24,8 @@ Education
  
 Publications
 ------
-* Lee, B. T., **Lee, B.**, Kwon, J. Y., Weber, T., & Kim, H. U. (2026). AI and mechanistic modeling for characterizing biosynthetic pathways of natural products. *Natural Product Reports*. doi:[10.1039/D5NP00059A](https://doi.org/10.1039/D5NP00059A)
+* 2026
+  * Lee, B. T., **Lee, B.**, Kwon, J. Y., Weber, T., & Kim, H. U. (2026). AI and mechanistic modeling for characterizing biosynthetic pathways of natural products. *Natural Product Reports*. https://doi.org/10.1039/D5NP00059A
 
 Research Experience
 ------
