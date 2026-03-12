@@ -21,6 +21,10 @@ Education
   * Major: Graduate School of Engineering Biology
   * Lab: Systems Biology and Medicine Laboratory (SBML)
   * Advisor: Prof. Hyun Uk Kim
+ 
+Publications
+------
+* Lee, B. T., **Lee, B.**, Kwon, J. Y., Weber, T., & Kim, H. U. (2026). AI and mechanistic modeling for characterizing biosynthetic pathways of natural products. *Natural Product Reports*. doi:[10.1039/D5NP00059A](https://doi.org/10.1039/D5NP00059A)
 
 Research Experience
 ------
@@ -56,17 +60,6 @@ Teaching experience
   * Led recitation sessions and graded assignments
   * Supervisor: Prof. Jiaojie Li
  
-Extracurrirular activities
-------
-* GIST Infinite Challenge Project
-  * Gwangju Institute of Science and Technology
-  * May. 2022 - Oct. 2022
-  * Duties included: Designing and making an artworks
-* GIST Summer Undergraduate Research Fellowship(G-SURF)
-  * Gwangju Institute of Science and Technology
-  * Summer 2022
-  * Duties included: Laboratory experience(More details on 'Reasearch Experiences')
- 
 Skills
 ------
 * Programming
@@ -87,3 +80,14 @@ Scholarships & Fundings
   * 2022-2023 Spring/Fall semester
 * KAIST Scholarship
   * 2024-present Spring/Fall semester
+
+Extracurrirular activities
+------
+* GIST Infinite Challenge Project
+  * Gwangju Institute of Science and Technology
+  * May. 2022 - Oct. 2022
+  * Duties included: Designing and making an artworks
+* GIST Summer Undergraduate Research Fellowship(G-SURF)
+  * Gwangju Institute of Science and Technology
+  * Summer 2022
+  * Duties included: Laboratory experience(More details on 'Reasearch Experiences')
