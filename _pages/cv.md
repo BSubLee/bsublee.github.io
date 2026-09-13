@@ -40,23 +40,39 @@ Mar. 2020 – Feb. 2024
 
 **Bold** indicates the author of this CV. † indicates equal contribution.
 
-### Published
+### Peer-Reviewed Publications
 
 1. Lee, B. T.†, **Lee, B.†**, Kwon, J. Y.†, Weber, T., & Kim, H. U. (2026). AI and mechanistic modeling for characterizing biosynthetic pathways of natural products. *Natural Product Reports*, 43, 787–802. https://doi.org/10.1039/D5NP00059A
 
    **Contribution:** Authored the section on mechanistic models for enzyme–substrate interactions in natural-product biosynthesis.
 
-### Under Revision
+### Manuscripts Under Review or Revision
 
-2. Kim, J., **Lee, B.**, Park, J., Kim, H., Kim, M., Lee, G. S., Kim, C. S., Kim, H. U., & Kang, J. Y. (2026). A noncanonical reducing-domain architecture defines a new class of modular polyketide synthases. Under revision at *Nature Communications*.
+2. Kim, J., **Lee, B.**, Park, J., Kim, H., Kim, M., Lee, GS, Kim, C. S., Kim, H. U., & Kang, J. Y. (2026). A noncanonical reducing-domain architecture defines a new class of modular polyketide synthases. Under revision at *Nature Communications*.
 
-   **Contribution:** Conducted comparative-genomic and evolutionary-origin analyses.
-
-### Under Review
+   **Contribution:** Led the computational analyses, excluding AlphaFold-based structure prediction, including large-scale sequence mining, biosynthetic gene cluster analysis, statistical characterization of domain architectures, and phylogenetic/cophylogenetic analyses.
 
 3. Rudenko, A., Mohite, O., Yun, B., Lee, B. T., **Lee, B.**, Kwon, J. Y., Kang, H. S., Santos-Delgado, A., Weber, T., Kim, H. U., & Charusanti, P. (2026). Toward understanding drivers of secondary metabolism in Actinomycetota: insights from 1,432 transcriptomics datasets across 132 strains. Under review at *Genome Biology*.
 
    **Contribution:** Conducted transcriptomic data analysis.
+
+4. Avalon, N. E., Blin, K., Draisma, A., Terlouw, B. R., ..., **Lee, B.**, ..., Weber, T., & Medema, M. H. (2026). MIBiG 5.0: Advancing biosynthetic gene cluster curation through global collaboration. Under review at *Nucleic Acids Research*.
+
+   **Contribution:** Contributed to community curation and validation of biosynthetic gene cluster records.
+   
+### Manuscripts in preparation
+
+5. Yeom, J., **Lee, B.**, Choi, H., Yoon, Y. J., & Kim, H. U. NPdia: A manually curated, domain-resolved database of Type I PKS and NRPS biosynthetic pathways in Actinomycetota. Manuscript in preparation.
+
+   **Contribution:** Designed the database schema and curation framework, standardized the data, developed and maintained the website, and reviewed curated records.
+
+6. **Lee, B.**, Lee, S., & Kim, H. U. A multimodal genomic language model for predicting conditional gene expression in Actinomycetes. Manuscript in preparation.
+
+   **Contribution:** Collected and standardized transcriptomic metadata, processed transcriptomic datasets, and developed and evaluated the predictive model.
+
+7. Kwon, J. Y., **Lee, B.**, Yeom, J., Lee, B. T., & Kim, H. U. SSAM: Machine-learning-guided substrate specificity switching in acyltransferases. Manuscript in preparation.
+
+   **Contribution:** Performed molecular dynamics–based in silico validation of designed acyltransferase mutants.
 
 ## Conference Presentations
 
