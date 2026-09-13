@@ -66,11 +66,11 @@ Mar. 2020 – Feb. 2024
 
    **Contribution:** Designed the database schema and curation framework, standardized the data, developed and maintained the website, and reviewed curated records.
 
-6. **Lee, B.**, Lee, S., & Kim, H. U. A multimodal genomic language model for predicting conditional gene expression in Actinomycetes. Manuscript in preparation.
+6. **Lee, B.**†, Lee, S.†, & Kim, H. U. A multimodal genomic language model for predicting conditional gene expression in Actinomycetes. Manuscript in preparation.
 
    **Contribution:** Collected and standardized transcriptomic metadata, processed transcriptomic datasets, and developed and evaluated the predictive model.
 
-7. Kwon, J. Y., **Lee, B.**, Yeom, J., Lee, B. T., & Kim, H. U. SSAM: Machine-learning-guided substrate specificity switching in acyltransferases. Manuscript in preparation.
+7. Kwon, J. Y.†, **Lee, B.**†, Yeom, J., Lee, B. T., & Kim, H. U. SSAM: Machine-learning-guided substrate specificity switching in acyltransferases. Manuscript in preparation.
 
    **Contribution:** Performed molecular dynamics–based in silico validation of designed acyltransferase mutants.
 
